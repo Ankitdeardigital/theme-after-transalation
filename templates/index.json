@@ -1,0 +1,168 @@
+{
+  "sections": {
+    "multicolumn_Ddmakb": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_8QAFek": {
+          "type": "column",
+          "settings": {
+            "title": "Kolom",
+            "text": "<p>Plaats een afbeelding bij stukken tekst om de aandacht op je gekozen product, collectie of blogpost te richten. Voeg details over beschikbaarheid en stijl toe of plaats een productrecensie.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_rwptac": {
+          "type": "column",
+          "settings": {
+            "title": "Kolom",
+            "text": "<p>Plaats een afbeelding bij stukken tekst om de aandacht op je gekozen product, collectie of blogpost te richten. Voeg details over beschikbaarheid en stijl toe of plaats een productrecensie.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zk97bG": {
+          "type": "column",
+          "settings": {
+            "title": "Kolom",
+            "text": "<p>Plaats een afbeelding bij stukken tekst om de aandacht op je gekozen product, collectie of blogpost te richten. Voeg details over beschikbaarheid en stijl toe of plaats een productrecensie.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_8QAFek",
+        "column_rwptac",
+        "column_zk97bG"
+      ],
+      "name": "t:sections.multicolumn.presets.name",
+      "settings": {
+        "title": "Meerdere kolommen",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "button_label": "Knoplabel",
+        "button_link": "",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_dU68YB": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_gXPT46": {
+          "type": "heading",
+          "settings": {
+            "heading": "Vertel over je merk",
+            "heading_size": "h1"
+          }
+        },
+        "text_9AGHYG": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Deel informatie over je merk met klanten. Beschrijf een product, doe aankondigingen of verwelkom klanten in je winkel.<\/p>"
+          }
+        },
+        "button_KBxJf4": {
+          "type": "button",
+          "settings": {
+            "button_label": "Knoplabel",
+            "button_link": "",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_gXPT46",
+        "text_9AGHYG",
+        "button_KBxJf4"
+      ],
+      "name": "t:sections.rich-text.presets.name",
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "collapsible_content_xzcjiV": {
+      "type": "collapsible-content",
+      "blocks": {
+        "collapsible_row_DQKtbc": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Inklapbare rij",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_abFHHH": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Inklapbare rij",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_aRBGCp": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Inklapbare rij",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        },
+        "collapsible_row_jF4Ayr": {
+          "type": "collapsible_row",
+          "settings": {
+            "heading": "Inklapbare rij",
+            "icon": "check_mark",
+            "row_content": "",
+            "page": ""
+          }
+        }
+      },
+      "block_order": [
+        "collapsible_row_DQKtbc",
+        "collapsible_row_abFHHH",
+        "collapsible_row_aRBGCp",
+        "collapsible_row_jF4Ayr"
+      ],
+      "name": "t:sections.collapsible_content.presets.name",
+      "settings": {
+        "caption": "",
+        "heading": "Inklapbare content",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "layout": "none",
+        "container_color_scheme": "",
+        "color_scheme": "",
+        "open_first_collapsible_row": false,
+        "image_ratio": "adapt",
+        "desktop_layout": "image_second",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "multicolumn_Ddmakb",
+    "rich_text_dU68YB",
+    "collapsible_content_xzcjiV"
+  ]
+}
